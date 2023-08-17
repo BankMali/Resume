@@ -30,7 +30,7 @@ export default function ProfilePic() {
       <div
         className="absolute w-72 h-72 rounded-full "
         style={{
-          backgroundImage: `url('/src/assets/ProfilePic.jpg')`,
+          backgroundImage: `url('https://res.cloudinary.com/du6djicv7/image/upload/v1692293433/assets/ProfilePic_q1lddf.jpg')`,
           backgroundPosition: "center",
           backgroundSize: "cover",
         }}

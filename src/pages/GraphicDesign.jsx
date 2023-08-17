@@ -51,14 +51,14 @@ export default function GraphicDesign() {
           initial="hidden"
           animate="visible"
           className=" flex flex-wrap gap-5 justify-center items-start">
-          <PortItem imagecover="/src/assets/Portfolio/Graphic/da.jpg" />
-          <PortItem imagecover="/src/assets/Portfolio/Graphic/van.jpg" />
-          <PortItem imagecover="/src/assets/Portfolio/Graphic/gp1.jpg" />
-          <PortItem imagecover="/src/assets/Portfolio/Graphic/juiceBox.jpg" />
-          <PortItem imagecover="/src/assets/Portfolio/Graphic/juiceBoxPlate.jpg" />
-          <PortItem imagecover="/src/assets/Portfolio/Graphic/paper.jpg" />
-          <PortItem imagecover="/src/assets/Portfolio/Vfx/n3.jpg" />
-          <PortItem imagecover="/src/assets/Portfolio/Vfx/n6.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/da_kthb18.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/van_gewyge.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/gp1_lvnof7.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/juiceBox_qrjifi.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293433/assets/Portfolio/Graphic/juiceBoxPlate_mptqmx.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/paper_etoizp.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293432/assets/Portfolio/Vfx/n3_zq6xy8.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293432/assets/Portfolio/Vfx/n6_jktoxr.jpg" />
         </motion.div>
       </div>
     </MainLayout>

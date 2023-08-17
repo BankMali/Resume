@@ -41,19 +41,22 @@ export default function Portfolio() {
     {
       id: 1,
       topic: "Web Develop",
-      image: "src/assets/Portfolio/WebDev/Elysian/page.png",
+      image:
+        "https://res.cloudinary.com/du6djicv7/image/upload/v1692293436/assets/Portfolio/WebDev/Elysian/page_rc2kcx.png",
       link: "/portfolio/webdevelop",
     },
     {
       id: 2,
       topic: "Graphic Design",
-      image: "src/assets/Portfolio/Graphic/da.jpg",
+      image:
+        "https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/da_kthb18.jpg",
       link: "/portfolio/graphic",
     },
     {
       id: 3,
       topic: "Vfx & Motion Graphic",
-      image: "src/assets/Portfolio/Vfx/vfxCover.png",
+      image:
+        "https://res.cloudinary.com/du6djicv7/image/upload/v1692293433/assets/Portfolio/Vfx/vfxCover_j2pqdt.png",
       link: "/portfolio/vfxandmotion",
     },
   ];

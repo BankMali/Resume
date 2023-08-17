@@ -51,7 +51,7 @@ export default function WebDevelop() {
           animate="visible"
           className=" flex flex-wrap gap-5 justify-center items-start">
           <PortItem
-            imagecover="/src/assets/Portfolio/WebDev/Elysian/WebDev-02.png"
+            imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/WebDev/Elysian/WebDev-02_njidgl.png"
             projectName="Elysian (group project)"
             projectDetail="A web application that be hub for room rental. Rental like
             recycle that can save the world.">
@@ -71,7 +71,7 @@ export default function WebDevelop() {
             </ListStyle>
           </PortItem>
           <PortItem
-            imagecover="/src/assets/Portfolio/WebDev/Chemup/WebDev-01.png"
+            imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293435/assets/Portfolio/WebDev/Chemup/WebDev-01_z2hte0.png"
             projectName="ChempUp"
             projectDetail="Online Chemical Learning Course">
             <ListStyle>
@@ -89,7 +89,7 @@ export default function WebDevelop() {
           </PortItem>
           <a href="https://tic-tac-toe-seven-steel.vercel.app/">
             <PortItem
-              imagecover="/src/assets/Portfolio/WebDev/minigame.png"
+              imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293435/assets/Portfolio/WebDev/minigame_zuiq3e.png"
               projectName="Tic-tac-toe"
               projectDetail="Tic-tac-toe Mini Game"></PortItem>
           </a>
