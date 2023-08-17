@@ -74,7 +74,7 @@ export default function About() {
         </div>
         <div className="px-10 h-full flex flex-wrap gap-5  flex-[2] max-md:px-2">
           <div className=" flex flex-col gap-5 w-fit flex-[1.5] min-w-[300px]">
-            <div className=" flex gap-5 flex-col bg-opacity-10 blur-xl backdrop-blur-md bg-c-white1 w-full h-fit py-5 px-10 shadow-xl hover:ring-1 hover:ring-white transition duration-500">
+            <div className=" flex gap-5 flex-col bg-opacity-10  backdrop-blur-md bg-c-white1 w-full h-fit py-5 px-10 shadow-xl hover:ring-1 hover:ring-white transition duration-500">
               <h1 className="text-lg font-bold">
                 About
                 <span className="text-lg text-c-blue3 pt-2 tracking-[1px]">
@@ -94,7 +94,7 @@ export default function About() {
                 </li>
               </ul>
             </div>
-            <div className="flex gap-5 flex-col bg-opacity-10 blur-xl backdrop-blur-md bg-c-white1 w-full h-full py-5 px-10 shadow-xl hover:ring-1 hover:ring-white transition duration-500">
+            <div className="flex gap-5 flex-col bg-opacity-10 backdrop-blur-md bg-c-white1 w-full h-full py-5 px-10 shadow-xl hover:ring-1 hover:ring-white transition duration-500">
               <h1 className="text-lg font-bold">
                 About
                 <span className="text-lg text-c-blue3 pt-2 tracking-[1px]">
@@ -150,7 +150,7 @@ export default function About() {
             </div>
           </div>
           <div className="flex flex-col gap-5 w-fit flex-[2] min-w-[300px]">
-            <div className="flex gap-5 flex-col bg-opacity-10 blur-xl backdrop-blur-md items-center bg-c-white1 w-auto h-full py-5 px-10 shadow-xl hover:ring-1 hover:ring-white transition duration-500">
+            <div className="flex gap-5 flex-col bg-opacity-10 backdrop-blur-md items-center bg-c-white1 w-auto h-full py-5 px-10 shadow-xl hover:ring-1 hover:ring-white transition duration-500">
               <h1 className="text-lg font-bold">
                 About
                 <span className="text-lg text-c-blue3 pt-2 tracking-[1px]">

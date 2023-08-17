@@ -20,7 +20,7 @@ export default function MainLayout({ children }) {
           stiffness: 500,
           restDelta: 0.01,
         }}></motion.div>
-      <motion.div className=" text-base tracking-widest min-h-screen h-full  flex-col flex justify-between items-center relative">
+      <motion.div className=" text-base tracking-widest min-h-screen h-full  flex-col flex justify-between items-center relative gap-5">
         <Navber />
         {children}
         {/* <div className="w-full">
