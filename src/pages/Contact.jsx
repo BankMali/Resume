@@ -5,8 +5,6 @@ import MainLayout from "../layouts/MainLayout";
 import Icon from "../components/icon";
 import { motion } from "framer-motion";
 import ProfilePic from "../components/ProfilePic";
-import { Link } from "react-router-dom";
-import Footer from "../layouts/Footer";
 
 export default function Contact() {
   const item = {
