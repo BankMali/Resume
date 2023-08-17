@@ -2,7 +2,7 @@ import { AiFillGithub } from "react-icons/ai";
 import { BiLogoLinkedin } from "react-icons/bi";
 import { MdEmail, MdPhone } from "react-icons/md";
 import MainLayout from "../layouts/MainLayout";
-import Icon from "../components/icon";
+import Seticon from "../components/Seticon";
 import { motion } from "framer-motion";
 import ProfilePic from "../components/ProfilePic";
 
@@ -84,9 +84,9 @@ export default function Contact() {
                   variants={item2}
                   initial="hidden"
                   animate="visible">
-                  <Icon>
+                  <Seticon>
                     <MdEmail />
-                  </Icon>
+                  </Seticon>
                   <p className="text-sm font-thin text-c-gray1 hover:text-c-white1 transition duration-500 cursor-pointer">
                     watchira_5@hotmail.com
                   </p>
@@ -98,9 +98,9 @@ export default function Contact() {
                   variants={item3}
                   initial="hidden"
                   animate="visible">
-                  <Icon>
+                  <Seticon>
                     <MdPhone />
-                  </Icon>
+                  </Seticon>
                   <p className="text-sm font-thin text-c-gray1 hover:text-c-white1 transition duration-500 cursor-pointer">
                     +66 8 1556 5528
                   </p>
@@ -113,9 +113,9 @@ export default function Contact() {
                   variants={item4}
                   initial="hidden"
                   animate="visible">
-                  <Icon>
+                  <Seticon>
                     <BiLogoLinkedin />
-                  </Icon>
+                  </Seticon>
                   <p className="text-sm font-thin text-c-gray1 hover:text-c-white1 transition duration-500 cursor-pointer">
                     linkedin.com/in/watchira
                   </p>
@@ -127,9 +127,9 @@ export default function Contact() {
                   variants={item5}
                   initial="hidden"
                   animate="visible">
-                  <Icon>
+                  <Seticon>
                     <AiFillGithub />
-                  </Icon>
+                  </Seticon>
                   <p className="text-sm font-thin text-c-gray1 hover:text-c-white1 transition duration-500 cursor-pointer">
                     github.com/BankMali
                   </p>

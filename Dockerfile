@@ -4,10 +4,10 @@ WORKDIR /app
 
 COPY . /app
 
-RUN pnpm i
+RUN npm ci
 
-RUN pnpm run build
+RUN npm run build
 
 EXPOSE 3000
 
-CMD ["pnpx","serve","dist"]
+CMD ["npx","serve","dist"]

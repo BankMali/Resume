@@ -2,7 +2,7 @@ import { MdSportsGymnastics } from "react-icons/md";
 import { BiLogoLinkedin } from "react-icons/bi";
 import { MdEmail, MdPhone } from "react-icons/md";
 import MainLayout from "../layouts/MainLayout";
-import Icon from "../components/icon";
+import Icon from "../components/Seticon";
 import { motion } from "framer-motion";
 import ProfilePic from "../components/ProfilePic";
 import ButtonGhost from "../components/ButtonGhost";
