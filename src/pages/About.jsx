@@ -46,7 +46,7 @@ export default function About() {
               initial="hidden"
               animate="visible">
               About
-              <span className="text-5xl text-c-blue3 pt-2 tracking-[3px]">
+              <span className="text-5xl text-c-blue3 pt-2 tracking-[3px] mb-3">
                 Me
               </span>
             </motion.h1>
