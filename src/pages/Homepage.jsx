@@ -66,7 +66,7 @@ export default function Homepage({ children }) {
             variants={item3}
             initial="hidden"
             animate="visible">
-            <a href="/src/assets/WatchiraResume.pdf">
+            <a href="https://drive.google.com/file/d/14p_vfEEppmf7Jg5VBvqgFqpCJqNSRPdc/view?usp=sharing">
               <ButtonBlueBig>Download CV</ButtonBlueBig>
             </a>
             <Link to="/portfolio">
