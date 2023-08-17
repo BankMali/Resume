@@ -30,7 +30,7 @@ export default function ProfilePic() {
       <div
         className="absolute w-72 h-72 rounded-full "
         style={{
-          backgroundImage: `url('src/assets/ProfilePic.jpg')`,
+          backgroundImage: `url('/src/assets/ProfilePic.jpg')`,
           backgroundPosition: "center",
           backgroundSize: "cover",
         }}
