@@ -41,12 +41,12 @@ export default function About() {
           </div>
           <div>
             <motion.h1
-              className="text-5xl font-bold "
+              className="text-5xl font-bold mb-5"
               variants={item}
               initial="hidden"
               animate="visible">
               About
-              <span className="text-5xl text-c-blue3 pt-2 tracking-[3px] mb-3">
+              <span className="text-5xl text-c-blue3 pt-2 tracking-[3px]">
                 Me
               </span>
             </motion.h1>
