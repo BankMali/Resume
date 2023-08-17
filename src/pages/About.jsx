@@ -31,36 +31,6 @@ export default function About() {
       },
     },
   };
-  //   const item3 = {
-  //     hidden: { y: 20, opacity: 0 },
-  //     visible: {
-  //       y: [20, 0],
-  //       opacity: [0, 0, 1],
-  //       transition: {
-  //         default: { duration: 1.5, ease: "easeInOut" },
-  //       },
-  //     },
-  //   };
-  //   const item4 = {
-  //     hidden: { y: 20, opacity: 0 },
-  //     visible: {
-  //       y: [20, 0],
-  //       opacity: [0, 0, 1],
-  //       transition: {
-  //         default: { duration: 1.7, ease: "easeInOut" },
-  //       },
-  //     },
-  //   };
-  //   const item5 = {
-  //     hidden: { y: 20, opacity: 0 },
-  //     visible: {
-  //       y: [20, 0],
-  //       opacity: [0, 0, 1],
-  //       transition: {
-  //         default: { duration: 1.9, ease: "easeInOut" },
-  //       },
-  //     },
-  //   };
 
   return (
     <MainLayout>
@@ -274,17 +244,6 @@ export default function About() {
                 </div>
               </div>
             </div>
-            {/* <div className="flex gap-5 flex-col bg-opacity-10 blur-xl backdrop-blur-md items-center bg-c-white1 w-auto h-full py-5 px-10 shadow-xl hover:ring-1 hover:ring-white transition duration-500">
-              <h1 className="text-lg font-bold">
-                About
-                <span className="text-lg text-c-blue3 pt-2 tracking-[1px]">
-                  LifeStyle
-                </span>
-              </h1>
-              <Icon>
-                <MdSportsGymnastics />
-              </Icon>
-            </div> */}
           </div>
         </div>
       </div>

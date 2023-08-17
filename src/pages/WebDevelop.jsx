@@ -51,7 +51,7 @@ export default function WebDevelop() {
           animate="visible"
           className=" flex flex-wrap gap-5 justify-center items-start">
           <PortItem
-            imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/WebDev/Elysian/WebDev-02_njidgl.png"
+            imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295489/assets/Portfolio/WebDev/Elysian/WebDev-02_ve3tlr.jpg"
             projectName="Elysian (group project)"
             projectDetail="A web application that be hub for room rental. Rental like
             recycle that can save the world.">
@@ -71,7 +71,7 @@ export default function WebDevelop() {
             </ListStyle>
           </PortItem>
           <PortItem
-            imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293435/assets/Portfolio/WebDev/Chemup/WebDev-01_z2hte0.png"
+            imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295491/assets/Portfolio/WebDev/Chemup/WebDev-01_i0qnhb.png"
             projectName="ChempUp"
             projectDetail="Online Chemical Learning Course">
             <ListStyle>
@@ -89,23 +89,11 @@ export default function WebDevelop() {
           </PortItem>
           <a href="https://tic-tac-toe-seven-steel.vercel.app/">
             <PortItem
-              imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293435/assets/Portfolio/WebDev/minigame_zuiq3e.png"
+              imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295490/assets/Portfolio/WebDev/minigame_m4gbti.png"
               projectName="Tic-tac-toe"
               projectDetail="Tic-tac-toe Mini Game"></PortItem>
           </a>
         </motion.div>
-
-        {/* <motion.ul
-          className="flex flex-wrap justify-center max-w-5xl gap-10"
-          variants={container}
-          initial="hidden"
-          animate="visible">
-          {mockdata?.map((el) => (
-            <motion.li key={el} variants={itemlist}>
-              <ServiceCard image={el?.image}>{el?.topic}</ServiceCard>
-            </motion.li>
-          ))}
-        </motion.ul> */}
       </div>
     </MainLayout>
   );

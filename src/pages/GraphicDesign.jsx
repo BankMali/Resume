@@ -51,14 +51,14 @@ export default function GraphicDesign() {
           initial="hidden"
           animate="visible"
           className=" flex flex-wrap gap-5 justify-center items-start">
-          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/da_kthb18.jpg" />
-          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/van_gewyge.jpg" />
-          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/gp1_lvnof7.jpg" />
-          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/juiceBox_qrjifi.jpg" />
-          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293433/assets/Portfolio/Graphic/juiceBoxPlate_mptqmx.jpg" />
-          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293434/assets/Portfolio/Graphic/paper_etoizp.jpg" />
-          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293432/assets/Portfolio/Vfx/n3_zq6xy8.jpg" />
-          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692293432/assets/Portfolio/Vfx/n6_jktoxr.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295489/assets/Portfolio/Graphic/da_sy73vr.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295489/assets/Portfolio/Graphic/van_ddnsad.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295490/assets/Portfolio/Graphic/gp1_uzj6s7.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295489/assets/Portfolio/Graphic/juiceBox_furng5.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295490/assets/Portfolio/Graphic/juiceBoxPlate_v941lz.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295490/assets/Portfolio/Graphic/paper_sucsxt.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295491/assets/Portfolio/Vfx/n6_u1sv2y.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295490/assets/Portfolio/Vfx/n3_uz620p.jpg" />
         </motion.div>
       </div>
     </MainLayout>
