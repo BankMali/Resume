@@ -52,6 +52,9 @@ export default function VfxMotionGraphic() {
           animate="visible"
           className=" flex flex-wrap gap-5 justify-center items-start h-full ">
           <iframe
+            src="https://www.youtube.com/embed/bf7cNk2Go_w"
+            className="shadow-xl w-[400px] h-[250px] min-w-[300px]"></iframe>
+          <iframe
             src="https://www.youtube.com/embed/ApqL3prX3P0"
             className="shadow-xl w-[400px] h-[250px] min-w-[300px]"></iframe>
 

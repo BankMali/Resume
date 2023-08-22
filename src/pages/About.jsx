@@ -67,7 +67,8 @@ export default function About() {
                 <p>Nickname : Bank</p>
                 <p>Nationality : Thai</p>
                 <p>Languages : Thai and English</p>
-                <p>Location : Bangkok, Thailand</p>
+                <p>Location : Krung Thonburi, Bang Yi Ruea,</p>
+                <p> Thonburi, Bangkok, ThaiLand</p>
               </motion.div>
             </motion.div>
           </div>

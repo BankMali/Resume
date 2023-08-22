@@ -55,10 +55,9 @@ export default function Homepage({ children }) {
             variants={item2}
             initial="hidden"
             animate="visible">
-            Applying for Frontend developer position or Ux/Ui designer. A great
-            team worker who is always striving to learn new things. Working
-            adaptively and flexibly in various environments. The ability to work
-            under pressure.
+            Worker who is always striving to learn new things. Working
+            adaptively and flexibly in various environments with the ability to
+            work under pressure.
           </motion.p>
 
           <motion.div

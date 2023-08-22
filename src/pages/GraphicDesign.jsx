@@ -57,6 +57,7 @@ export default function GraphicDesign() {
           <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295489/assets/Portfolio/Graphic/juiceBox_furng5.jpg" />
           <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295490/assets/Portfolio/Graphic/juiceBoxPlate_v941lz.jpg" />
           <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295490/assets/Portfolio/Graphic/paper_sucsxt.jpg" />
+          <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692704706/DraftProduct_pxnvj9.jpg" />
           <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295491/assets/Portfolio/Vfx/n6_u1sv2y.jpg" />
           <PortItem imagecover="https://res.cloudinary.com/du6djicv7/image/upload/v1692295490/assets/Portfolio/Vfx/n3_uz620p.jpg" />
         </motion.div>
